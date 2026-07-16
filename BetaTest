@@ -1,5 +1,5 @@
 local link = "https://discord.gg/NXVwEUAGS3"
-local msg = "Script Updated. Get new script from our Discord. Link copied to clipboard."
+local msg = "Script Updated. Get new script from our Discord. Link copied to your clipboard."
 
 local function kick()
     setclipboard(link)
